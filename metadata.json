@@ -1,0 +1,5 @@
+{
+  "name": "Hiring Intel - Personal Recruiter",
+  "description": "A personalized hiring intelligence dashboard that leverages Gemini 2.0 and Google Search to find, score, and report on relevant job openings in real-time.",
+  "requestFramePermissions": []
+}
